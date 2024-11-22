@@ -51,7 +51,7 @@ class MyHomePage extends StatelessWidget {
         padding: EdgeInsets.zero,
         children: <Widget>[
           DrawerHeader(
-            decoration: BoxDecoration(color: Colors.blue[900]),
+            decoration: BoxDecoration  (color: Colors.blue[900]),
             child: UserAccountsDrawerHeader(
               decoration: BoxDecoration(color: Colors.blue[900]
               ),
